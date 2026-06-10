@@ -1,0 +1,6 @@
+{
+  "name": "نظام شئون العاملين",
+  "description": "نظام متكامل لشئون العاملين وإدارة الموظفين والتقارير والإعدادات",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
